@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecipesBook</string>
+    <string name="title_section1">My Recipes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_new">Add new recipe</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_about">About Me</string>
+    <string name="drawer_opened">Opened</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="action_reset">Reset recipes book</string>
+
+
+</resources>
